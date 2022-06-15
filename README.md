@@ -1,2 +1,8 @@
 # curso-practico-javascript
-Este es el curso de javascript practico en platzi
+#Bienvenidos
+
+##Taller #1 Figuras geometricas
+
+- PRimer paso: definir formas
+- Segundo paso: Implementar las medidas
+- Tercer paso: 
