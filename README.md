@@ -5,4 +5,5 @@
 
 - PRimer paso: definir formas
 - Segundo paso: Implementar las medidas
-- Tercer paso: 
+- Tercer paso: Crear funciones
+- Integrar javascript con HTML
